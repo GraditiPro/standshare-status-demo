@@ -1,0 +1,25 @@
+owner: GraditiPro
+repo: standshare-status-demo
+
+sites:
+  - name: Web App
+    url: https://demo.demo.standshare.app
+  - name: API
+    url: https://api.demo.standshare.app/health
+  - name: Admin Portal
+    url: https://admin.demo.standshare.app
+  - name: Admin API
+    url: https://admin-api.demo.standshare.app/health
+
+status-website:
+  cname: status.demo.standshare.app
+  logoUrl: https://www.standshare.app/logo.png
+  name: StandShare Status (Demo)
+  introTitle: "**StandShare Demo** service status and uptime monitor."
+  introMessage: Real-time status for all StandShare demo environment services. Powered by [Upptime](https://github.com/upptime/upptime).
+  theme: night
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
