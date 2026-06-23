@@ -1,7 +1,7 @@
 url: https://api.demo.standshare.app/health
-status: down
-code: 503
-responseTime: 272
-lastUpdated: 2026-06-23T07:56:06.311Z
+status: up
+code: 200
+responseTime: 411
+lastUpdated: 2026-06-23T09:07:53.726Z
 startTime: 2026-02-16T00:49:12.027Z
 generator: Upptime <https://github.com/upptime/upptime>
