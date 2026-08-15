@@ -27,19 +27,19 @@
     "url": "https://api.demo.standshare.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.demo.standshare.app.ico",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "97.54%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "92.87%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "92.84%",
     "uptimeYear": "97.54%",
-    "time": 2411,
-    "timeDay": 935,
-    "timeWeek": 2591,
-    "timeMonth": 4735,
-    "timeYear": 2411,
+    "time": 2417,
+    "timeDay": 1827,
+    "timeWeek": 2791,
+    "timeMonth": 4662,
+    "timeYear": 2417,
     "dailyMinutesDown": {
-      "2026-07-03": 61,
+      "2026-07-03": 31,
       "2026-07-04": 92,
       "2026-07-05": 25,
       "2026-07-06": 218,
@@ -73,7 +73,7 @@
       "2026-08-12": 27,
       "2026-08-13": 31,
       "2026-08-14": 47,
-      "2026-08-15": 19
+      "2026-08-15": 33
     }
   },
   {
