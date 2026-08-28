@@ -28,18 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.demo.standshare.app.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "97.62%",
+    "uptime": "97.63%",
     "uptimeDay": "78.50%",
-    "uptimeWeek": "96.29%",
-    "uptimeMonth": "96.91%",
-    "uptimeYear": "97.62%",
+    "uptimeWeek": "95.89%",
+    "uptimeMonth": "96.82%",
+    "uptimeYear": "97.63%",
     "time": 2398,
     "timeDay": 6483,
     "timeWeek": 2496,
     "timeMonth": 2314,
     "timeYear": 2398,
     "dailyMinutesDown": {
-      "2026-07-06": 218,
+      "2026-07-06": 158,
       "2026-07-07": 165,
       "2026-07-08": 329,
       "2026-07-09": 410,
@@ -75,7 +75,8 @@
       "2026-08-23": 18,
       "2026-08-24": 23,
       "2026-08-26": 16,
-      "2026-08-27": 316
+      "2026-08-27": 316,
+      "2026-08-28": 40
     }
   },
   {
